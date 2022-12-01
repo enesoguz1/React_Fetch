@@ -1,14 +1,14 @@
 import React from 'react';
 import './App.css';
-import Fetch from './Fetch';
+import Fetch_Part2 from './Fetch_Part2';
 
 function App() {
   return (
     <div className="App">
-      <h1>Fetch <hr /> 
+      <h1>Fetch || Part 2<hr /> 
         useEffect - useState
       </h1>
-      <Fetch></Fetch>
+      <Fetch_Part2></Fetch_Part2>
     </div>
   );
 }
